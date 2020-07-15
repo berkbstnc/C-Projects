@@ -1,1 +1,1 @@
-<b>Projects in https://github.com/bstncberk/C-Project belong to Ali Berk Bostancı. All rights reserved.</b>
+<b>You can find my projects related with C programming language.</b>
